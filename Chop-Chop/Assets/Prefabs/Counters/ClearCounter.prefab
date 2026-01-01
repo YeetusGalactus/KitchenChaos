@@ -70,7 +70,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ClearCounter
   kitchenObjectSO: {fileID: 11400000, guid: 1afb95eaf29e81d45a01e462784e9d92, type: 2}
-  CounterTopPoint: {fileID: 157042521435360834}
+  counterTopPoint: {fileID: 157042521435360834}
 --- !u!1 &7385613593049012645
 GameObject:
   m_ObjectHideFlags: 0

@@ -14,39 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1766606007
+  lastShownTimestamp: 1767279929
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1766606007
+  checkedLastUpdateTimestamp: 1767279930
   lastQOTDResponse:
-    questionId: 255
-    questionText: How should you store the health of each unit in your game?
-    answerA: public int health;
-    answerB: private int health;
-    answerC: public static int health;
-    answerD: private int h;
+    questionId: 257
+    questionText: Where are PlayerPrefs actually saved on Windows?
+    answerA: Game install folder
+    answerB: User data
+    answerC: Registry
+    answerD: 
     answerE: 
-  lastQotdTimestamp: 1766606007
+  lastQotdTimestamp: 1767279930
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/problemSolvingCourse_BonusesEndingMonth.png
     topText: The Special Bonuses on my Problem Solving course are ending this month!
     topLink: problemsolvingcourse
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1766606007
+  lastDynamicHeaderTimestamp: 1767279930
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1766606007
+  websiteLatestMessageTimestamp: 1767279930
   websiteLatestVideos:
     videos:
+    - youTubeId: ZrlwMA2qaKw
+      title: BEST NEW Visual Assets to INSPIRE YOU! (DECEMBER 2025)
+    - youTubeId: rtwwNG7Jwwc
+      title: Get Ready for 2026 with FREE Technical Unity ebooks and samples!
+    - youTubeId: Q7NFzES5GMU
+      title: How to Convert Input Manager to Input System (Unity 6.3 LTS)
     - youTubeId: zk3vMm0dJ_M
       title: Useless IMPORTANT Game Features (for some players)
-    - youTubeId: f_zWWVFKwho
-      title: TOP 10 NEW Systems and Tools DECEMBER 2025! | Unity Asset Store
-    - youTubeId: 4n0flLF7FB0
-      title: THIS is the #1 Game Marketing RULE!
-    - youTubeId: CGQovJjijwE
-      title: FREE DOWNLOAD 56 Project Files!
-  websiteLatestVideosTimestamp: 1766606007
+  websiteLatestVideosTimestamp: 1767279930
